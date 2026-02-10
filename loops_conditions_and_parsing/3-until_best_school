@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#using until loop to display best school 10 times
+# until loop
 
 i=0
 
